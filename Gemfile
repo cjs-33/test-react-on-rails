@@ -59,3 +59,5 @@ end
 gem "react_on_rails", "= 13.3"
 
 gem "shakapacker", "= 6.6"
+
+gem "figaro", "~> 1.2"
